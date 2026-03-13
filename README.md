@@ -19,7 +19,8 @@ All transformations are written in SQL Server and organized into three layers:
 
 The warehouse follows a layered structure separating raw ingestion, data preparation, and analytical modeling.
 
-![Architecture](docs/high_level_architecture.png)
+<img width="1589" height="1328" alt="image" src="https://github.com/user-attachments/assets/cd2ba5d0-23f5-4111-becc-c2c17aa492e5" />
+
 
 Data moves through the system as follows:
 
@@ -71,7 +72,7 @@ The CRM and ERP systems overlap on several entities, which makes data integratio
 
 Before building the warehouse layers, relationships between the tables were mapped.
 
-![Integration](docs/data_integration.png)
+<img width="1558" height="1198" alt="image" src="https://github.com/user-attachments/assets/131f1577-d9f6-40aa-a465-7c3827002042" />
 
 Key findings during exploration:
 
@@ -89,7 +90,8 @@ These relationships drive how the Silver and Gold layers are built.
 
 Project planning and task tracking were organized in Notion.
 
-![Notion Workflow](docs/notion_project.png)
+<img width="2012" height="1426" alt="image" src="https://github.com/user-attachments/assets/967aae74-4e4f-4236-816b-23d795fc7f66" />
+<img width="1440" height="1329" alt="image" src="https://github.com/user-attachments/assets/da6efa21-a7bb-4eea-99a2-db332a688d7c" />
 
 Major project stages:
 
@@ -213,7 +215,8 @@ These objects are implemented as **views** so the analytical layer always reflec
 
 The final analytical structure follows a star schema.
 
-![Star Schema](docs/star_schema.png)
+<img width="1595" height="1225" alt="image" src="https://github.com/user-attachments/assets/e4b8be1a-bb8f-4515-ab21-877ee1f3c7ec" />
+
 
 ---
 
