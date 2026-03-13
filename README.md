@@ -105,6 +105,8 @@ Major project stages:
 
 This structure ensured the work progressed systematically rather than as disconnected SQL scripts.
 
+<img width="1352" height="918" alt="image" src="https://github.com/user-attachments/assets/a71b9c7d-89ee-4d6b-b155-faf3153d3abf" />
+
 ---
 
 # Bronze Layer
