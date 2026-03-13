@@ -93,6 +93,10 @@ Project planning and task tracking were organized in Notion.
 <img width="1811" height="1471" alt="image" src="https://github.com/user-attachments/assets/cdb5e020-2ae4-4f69-a221-727dc5c76e08" />
 <img width="1564" height="1333" alt="image" src="https://github.com/user-attachments/assets/a0af864f-53b5-4b1a-a4e4-5d9cfb42907d" />
 
+For a detailed view of the planning board and project milestones:
+
+**View the Notion workspace**
+https://obvious-turner-a04.notion.site/Data-Warehouse-Project-By-Mert-Ovet-316d9b38796480f7ba71e9b67e8a778b
 
 Major project stages:
 
