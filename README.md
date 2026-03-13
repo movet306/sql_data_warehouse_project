@@ -1,4 +1,4 @@
-# SQL Data Warehouse Project
+# SQL Data Warehouse Project | CRM & ERP Data Integration
 
 This repository documents the process of building a layered SQL data warehouse using CRM and ERP data sources.
 
