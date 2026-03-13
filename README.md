@@ -298,21 +298,19 @@ Validation queries are available in the `tests/` directory.
 ---
 
 # Repository Structure
-datasets/
-raw CSV files used as source data
+## Repository Structure
 
-docs/
-architecture diagrams
-data integration diagrams
-star schema model
+- **Datasets** – Raw source files  
+  https://github.com/movet306/sql_data_warehouse_project/tree/main/datasets
 
-scripts/
-bronze layer ingestion
-silver layer transformations
-gold layer modeling
+- **Documentation** – Architecture and data modeling diagrams  
+  https://github.com/movet306/sql_data_warehouse_project/tree/main/docs
 
-tests/
-data validation queries
+- **SQL Scripts** – Bronze, Silver, and Gold layer transformations  
+  https://github.com/movet306/sql_data_warehouse_project/tree/main/scripts
+
+- **Data Tests** – Validation queries and data quality checks  
+  https://github.com/movet306/sql_data_warehouse_project/tree/main/tests
 
 
 ---
